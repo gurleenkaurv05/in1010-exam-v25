@@ -1,2 +1,3 @@
-# in1010-eksamen-v25
-IN1010 Eksamen V2025 (Java)
+# IN1010: Objektorientert programmering (Java)
+
+Besvarelsen fikk karakteren B.
