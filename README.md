@@ -1,5 +1,4 @@
-# IN1010: Objektorientert programmering (Java)
+# IN1010: Object-Oriented Programming (Java)
+The submission received a grade of B.
 
-Besvarelsen fikk karakteren B.
-
-Følg linken for en beskrivelse av emnet: https://www.uio.no/studier/emner/matnat/ifi/IN1010/
+Follow the link for a description of the course: https://www.uio.no/studier/emner/matnat/ifi/IN1010/
